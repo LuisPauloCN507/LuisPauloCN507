@@ -1,10 +1,6 @@
 # Olá, eu sou o Luis Paulo! 👋
 ### Full Stack Developer Jr | Estudante de ADS
 
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" alt="Pixel Profile" />
-</p>
-
 ---
 
 ## 🚀 Sobre Mim
@@ -13,13 +9,9 @@ Me chamo **Luis Paulo**, sou estudante de **Análise e Desenvolvimento de Sistem
 
 Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tecnologias modernas como **Next.js, Node.js e Prisma**. Acredito que ser um desenvolvedor Full Stack vai além do código, por isso também exploro o mundo do **DevOps** com **Docker** e utilizo o **Linux (Ubuntu)** como meu ambiente de desenvolvimento principal para garantir máxima performance e produtividade.
 
-Estou em constante evolução, buscando sempre aprender novas arquiteturas e melhores práticas de desenvolvimento para entregar soluções que realmente gerem valor.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-Aqui estão as tecnologias que utilizo no meu dia a dia:
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,linux,ubuntu,git,vscode,bash&theme=dark" />
@@ -40,6 +32,13 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 ### 🐍 GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuisPauloCN507/LuisPauloCN507/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+### 🖥️ Pixel Profile
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" alt="Pixel Profile" />
 </p>
 
 ---
