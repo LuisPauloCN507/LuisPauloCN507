@@ -12,10 +12,20 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+Aqui estão as tecnologias que utilizo no meu dia a dia (estilo MOBA):
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,linux,ubuntu,git,vscode,bash&theme=dark" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/javascript.svg" width="45" height="45" alt="JS" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/typescript.svg" width="45" height="45" alt="TS" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/react.svg" width="45" height="45" alt="React" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/nextjs.svg" width="45" height="45" alt="Next" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/nodejs.svg" width="45" height="45" alt="Node" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/postgresql.svg" width="45" height="45" alt="Postgres" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/prisma.svg" width="45" height="45" alt="Prisma" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/docker.svg" width="45" height="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/linux.svg" width="45" height="45" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/git.svg" width="45" height="45" alt="Git" />
+  <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/vscode.svg" width="45" height="45" alt="VSCode" />
 </p>
 
 ---
@@ -45,7 +55,10 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 
 ## 📫 Redes & Contato
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark" />
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI">
+    <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/linkedin.svg" width="45" height="45" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/svg/gmail.svg" width="45" height="45" alt="Gmail" />
   </a>
 </p>
