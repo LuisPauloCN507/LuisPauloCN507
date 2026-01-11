@@ -1,6 +1,12 @@
 # Olá, eu sou o Luis Paulo! 👋
 ### Full Stack Developer Jr | Estudante de ADS
 
+<p align="center">
+  <a href="https://github.com/LuciNyan/pixel-profile">
+    <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Sobre Mim
