@@ -1,18 +1,15 @@
 # Olá, eu sou o Luis Paulo! 👋
-
-### Full Stack Developer
-
----
-
-## 🐍 GitHub Snake
-![github contribution grid snake animation](https://github.com/LuisPauloCN507/LuisPauloCN507/blob/output/github-contribution-grid-snake.svg)
+### Full Stack Developer Jr | Estudante de ADS
 
 ---
 
 ## 🚀 Sobre Mim
-- 💻 Desenvolvedor focado no ecossistema **Next.js** e **Prisma**.
-- 🐧 Entusiasta de **Linux (Ubuntu)** e automação de ambientes com **Docker**.
-- 🛠️ Atualmente aprimorando conhecimentos em arquitetura de microsserviços e performance.
+
+Me chamo **Luis Paulo**, sou desenvolvedor **Full Stack Júnior** e apaixonado por transformar ideias em código. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, onde aprofundo meus conhecimentos técnicos e teóricos diariamente.
+
+Minha jornada na tecnologia é movida pela curiosidade e pelo desejo de criar soluções que facilitem a vida das pessoas. Tenho um carinho especial pelo ecossistema **Linux (Ubuntu)**, que é o meu ambiente de desenvolvimento principal, e sou entusiasta da cultura **DevOps**, utilizando **Docker** para automatizar e otimizar meus projetos.
+
+No meu dia a dia, foco no domínio de tecnologias modernas como **Next.js, TypeScript e Prisma**, buscando sempre escrever código limpo e escalável. Acredito que o aprendizado contínuo é a chave, por isso estou sempre explorando novas ferramentas e contribuindo com a comunidade através dos meus projetos aqui no GitHub.
 
 ---
 
@@ -36,10 +33,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 📂 Principais Projetos
-- **finans-ai**: Gestão financeira inteligente.
-- **dev-finder**: Localizador de talentos via GitHub API.
-- **note-keeper**: App de notas focado em produtividade.
+![github contribution grid snake animation](https://github.com/LuisPauloCN507/LuisPauloCN507/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -49,5 +43,3 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
     <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark" />
   </a>
 </p>
-
----
