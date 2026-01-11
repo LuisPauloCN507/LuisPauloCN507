@@ -2,20 +2,18 @@
 ### Full Stack Developer Jr | Estudante de ADS
 
 <p align="center">
-  <a href="https://github.com/LuciNyan/pixel-profile">
-    <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" />
-  </a>
+  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" alt="Pixel Profile" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Me chamo **Luis Paulo**, sou desenvolvedor **Full Stack Júnior** e apaixonado por transformar ideias em código. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, onde aprofundo meus conhecimentos técnicos e teóricos diariamente.
+Me chamo **Luis Paulo**, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor **Full Stack Júnior**. Atualmente, dedico meu tempo a aprimorar meus conhecimentos técnicos para criar aplicações completas, robustas e escaláveis.
 
-Minha jornada na tecnologia é movida pela curiosidade e pelo desejo de criar soluções que facilitem a vida das pessoas. Tenho um carinho especial pelo ecossistema **Linux (Ubuntu)**, que é o meu ambiente de desenvolvimento principal, e sou entusiasta da cultura **DevOps**, utilizando **Docker** para automatizar e otimizar meus projetos.
+Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tecnologias modernas como **Next.js, Node.js e Prisma**. Acredito que ser um desenvolvedor Full Stack vai além do código, por isso também exploro o mundo do **DevOps** com **Docker** e utilizo o **Linux (Ubuntu)** como meu ambiente de desenvolvimento principal para garantir máxima performance e produtividade.
 
-No meu dia a dia, foco no domínio de tecnologias modernas como **Next.js, TypeScript e Prisma**, buscando sempre escrever código limpo e escalável. Acredito que o aprendizado contínuo é a chave, por isso estou sempre explorando novas ferramentas e contribuindo com a comunidade através dos meus projetos aqui no GitHub.
+Estou em constante evolução, buscando sempre aprender novas arquiteturas e melhores práticas de desenvolvimento para entregar soluções que realmente gerem valor.
 
 ---
 
@@ -33,9 +31,8 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
 ---
