@@ -33,13 +33,6 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 
 ---
 
-### 🖥️ Pixel Profile
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" alt="Pixel Profile" />
-</p>
-
----
-
 ## 📫 Redes & Contato
 <p align="left">
   <a href="https://skillicons.dev">
