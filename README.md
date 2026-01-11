@@ -34,7 +34,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 ### 🐍 GitHub Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuisPauloCN507/LuisPauloCN507/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/LuisPauloCN507/LuisPauloCN507/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 ---
