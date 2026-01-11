@@ -20,12 +20,12 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub (Instância Privada)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-omega-three-57.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-omega-three-57.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 
 ### 🖥️ Pixel Profile
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" />
+  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" alt="Pixel Profile" />
 </p>
 
 ---
