@@ -20,7 +20,7 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 
 ---
 
-## 📊 Estatísticas do GitHub (Instância Privada)
+## 📊 Estatísticas Github
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-omega-three-57.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -28,9 +28,6 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
   <img height="180em" src="https://github-readme-stats-omega-three-57.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
----
-
-### 🐍 GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuisPauloCN507/LuisPauloCN507/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
