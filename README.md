@@ -12,8 +12,6 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-Aqui estão as tecnologias que utilizo no meu dia a dia:
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,linux,ubuntu,git,vscode,bash&theme=dark" />
@@ -22,12 +20,12 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 📊 Estatísticas do GitHub (Alternativa estável)
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisPauloCN507&theme=dracula" alt="Detalhes do Perfil" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=LuisPauloCN507&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
 ---
@@ -41,7 +39,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 ### 🖥️ Pixel Profile
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" alt="Pixel Profile" />
+  <img src="https://pixel-profile.vercel.app/api/gh-next?username=LuisPauloCN507&screen_effect=crt&theme=dracula" />
 </p>
 
 ---
