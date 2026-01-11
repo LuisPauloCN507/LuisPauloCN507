@@ -30,9 +30,6 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
----
-
-### 🐍 GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuisPauloCN507/LuisPauloCN507/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
