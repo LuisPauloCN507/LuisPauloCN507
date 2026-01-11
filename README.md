@@ -22,14 +22,17 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub (Alternativa estável)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPauloCN507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisPauloCN507&theme=dracula" alt="Detalhes do Perfil" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPauloCN507&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=LuisPauloCN507&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
+---
+
+### 🐍 GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuisPauloCN507/LuisPauloCN507/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
