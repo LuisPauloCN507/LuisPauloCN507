@@ -11,7 +11,7 @@ Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tec
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech_Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,linux,ubuntu,git,vscode,bash&theme=dark" />
