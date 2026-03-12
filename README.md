@@ -5,16 +5,15 @@
 
 ## 🚀 Sobre Mim
 
-Me chamo **Luis Paulo**, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e meu foco total é o **Desenvolvimento Front-end**. Atualmente, estou dominando a base sólida de **HTML5, CSS3 e JavaScript**, com o objetivo de construir interfaces modernas e performáticas.
+Sou o **Luis Paulo**, desenvolvedor **Front-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo experiência prática através do desenvolvimento de **projetos pessoais**, onde aplico meus conhecimentos em **HTML5, CSS3 e JavaScript** para criar interfaces modernas, intuitivas e performáticas.
 
-Minha meta é especializar meu fluxo de trabalho utilizando **TypeScript, React e Tailwind CSS** para criar aplicações escaláveis. Utilizo o **Linux (Ubuntu)** como meu laboratório de desenvolvimento, aproveitando o poder do terminal **Kitty** e do **Zsh** para ser um dev mais produtivo.
-
+Atualmente, minha meta é especializar meu fluxo de trabalho no ecossistema de **TypeScript, React e Tailwind CSS**. Utilizo o **Linux (Ubuntu)** como meu laboratório de desenvolvimento, otimizando minha produtividade com o terminal.
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,linux,ubuntu,bash,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bash,git,github,vscode&theme=dark" />
   </a>
 </p>
 
