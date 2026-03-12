@@ -1,20 +1,18 @@
 # Olá, eu sou o Luis Paulo! 👋
-### Full Stack Developer Jr | Estudante de ADS
+### Front-end Developer em Formação | Estudante de ADS
 
 ---
 
 ## 🚀 Sobre Mim
 
-Me chamo **Luis Paulo**, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor **Full Stack Júnior**. Atualmente, dedico meu tempo a aprimorar meus conhecimentos técnicos para criar aplicações completas, robustas e escaláveis.
-
-Minha jornada é focada no ecossistema **JavaScript/TypeScript**, utilizando tecnologias modernas como **Next.js, Node.js e Prisma**. Acredito que ser um desenvolvedor Full Stack vai além do código, por isso também exploro o mundo do **DevOps** com **Docker** e utilizo o **Linux (Ubuntu)** como meu ambiente de desenvolvimento principal para garantir máxima performance e produtividade.
+Me chamo **Luis Paulo**, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou focando minha carreira totalmente no **Desenvolvimento Front-end**.
 
 ---
 
-## 🛠️ Tech_Stack
+## 🛠️ Minha Stack de Estudos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,linux,ubuntu,git,vscode,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,linux,ubuntu,bash,git,github,vscode&theme=dark" />
   </a>
 </p>
 
