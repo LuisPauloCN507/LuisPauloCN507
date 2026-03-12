@@ -7,7 +7,6 @@
 
 Sou o **Luis Paulo**, desenvolvedor **Front-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo experiência prática através do desenvolvimento de **projetos pessoais**, onde aplico meus conhecimentos em **HTML5, CSS3 e JavaScript** para criar interfaces modernas, intuitivas e performáticas.
 
-Atualmente, minha meta é especializar meu fluxo de trabalho no ecossistema de **TypeScript, React e Tailwind CSS**. Utilizo o **Linux (Ubuntu)** como meu laboratório de desenvolvimento, otimizando minha produtividade com o terminal.
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
