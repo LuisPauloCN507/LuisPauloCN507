@@ -1,5 +1,5 @@
 # Olá, eu sou o Luis Paulo! 👋
-### Front-end Developer em Formação | Estudante de ADS
+### Front-end Developer | Estudante de ADS
 
 ---
 
