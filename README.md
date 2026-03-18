@@ -21,7 +21,7 @@ Olá! Eu sou Luis Paulo, sou desenvolvedor Front-end e estudante de Análise e D
 ## Soft Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,c,c++&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,go,c,cpp&theme=dark" />
   </a>
 </p>
 
