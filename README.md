@@ -7,14 +7,14 @@
 
 Olá! Eu sou Luis Paulo, sou desenvolvedor Front-end e estudante de Análise e Desenvolvimento de Sistemas (ADS). Utilizo o ambiente **WSL2 (Ubuntu)** para desenvolver interfaces modernas e robustas, sempre focado em performance e no domínio de linguagens.
 
+---
+
 ## 🛠️ Tech Stack 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bash,git,github,vscode&theme=dark" />
   </a>
 </p>
-
----
 
 ## Soft Skills
 <p align="left">
