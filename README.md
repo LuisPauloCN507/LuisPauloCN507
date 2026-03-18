@@ -5,11 +5,11 @@
 
 ## 🚀 Sobre Mim
 
-Sou o **Luis Paulo**, desenvolvedor **Front-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Possuo experiência prática através do desenvolvimento de **projetos pessoais**, onde aplico meus conhecimentos em **HTML5, CSS3 e JavaScript** para criar interfaces modernas, intuitivas e performáticas.
+Olá! Eu sou Luis Paulo, sou desenvolvedor Front-end e estudante de Análise e Desenvolvimento de Sistemas (ADS). Utilizo o ambiente **WSL2 (Ubuntu)** para desenvolver interfaces modernas e robustas, sempre focado em performance e no domínio de linguagens.
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Tech Stack 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bash,git,github,vscode&theme=dark" />
