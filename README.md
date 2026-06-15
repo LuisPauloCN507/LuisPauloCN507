@@ -12,7 +12,7 @@ Olá! Eu sou Luis Paulo, sou desenvolvedor Front-end e estudante de Análise e D
 ## 🛠️ Tech Stack 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bash,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,git,github,vscode&theme=dark" />
   </a>
 </p>
 
