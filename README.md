@@ -1,11 +1,11 @@
 # Olá, eu sou o Luis Paulo! 👋
-### Front-end Developer | Estudante de ADS
+### Full-Stack Developer | Estudante de ADS
 
 ---
 
 ## 🚀 Sobre Mim
 
-Olá! Eu sou Luis Paulo, sou desenvolvedor Front-end e estudante de Análise e Desenvolvimento de Sistemas (ADS). Utilizo o ambiente Windows para desenvolver interfaces modernas e robustas, sempre focado em performance e no domínio de linguagens e futuramente planejo ser desevolverdor Full-stack.
+Olá! Eu sou Luis Paulo, sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas (ADS). Utilizo o ambiente Windows para desenvolver interfaces modernas e robustas, sempre focado em performance e no domínio de linguagens.
 
 ---
 
