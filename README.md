@@ -105,7 +105,7 @@ Valorizo a organização, a produtividade, o trabalho em equipe e a qualidade do
   <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfólio" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO/">
+<a href="www.linkedin.com/in/luispaulocostaneto">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
 </a>
 
