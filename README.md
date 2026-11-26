@@ -42,7 +42,7 @@ Valorizo a organização, a produtividade, o trabalho em equipe e a qualidade do
 ### Back-end e banco de dados — em evolução
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,postgres&theme=dark" alt="Back-end e banco de dados" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,&theme=dark" alt="Back-end e banco de dados" />
 </p>
 
 ### Outras linguagens de estudo
